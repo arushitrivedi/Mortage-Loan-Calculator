@@ -1,0 +1,47 @@
+#loancal
+{
+    width: 50%;
+    height: 185%;
+    background-color: black;
+    color: white;
+    margin-left: 20%;
+    margin-top: 8%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 150%;
+    line-height: 150%;
+}
+#months
+{
+    width: 20%;
+    height: 2%;
+}
+#amount
+{
+    width: 20%;
+    height: 2%;
+}
+#rate
+{
+    width: 20%;
+    height: 2%;
+}
+h1
+{
+    font-size: 200%;
+}
+button
+{
+    background-color: whitesmoke; 
+  /*border: none;*/
+  color: black;
+  padding: 2%;
+  text-align: center;
+  /*text-decoration: none;
+  /*display: inline-block;
+  /*font-size: 110%;
+  /*margin: 4px 2px;*/
+  cursor: pointer;
+  
+}
